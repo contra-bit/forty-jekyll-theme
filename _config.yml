@@ -12,11 +12,11 @@ zip_code: 28211
 country: Deutschland
 phone:
 
-# Homepage tiles
+# homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
-# Social settings
+# social settings
 500px_url:
 facebook_url: https://fb.me/liamhurwitz1
 github_url: https://github.com/contra-bit
@@ -28,5 +28,8 @@ pinterest_url:
 slack_url:
 twitter_url:
 
-# Build settings
+# build settings
 markdown: kramdown
+
+sass:
+  style: compressed
